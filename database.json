@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "lasya@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "email": "chidurala@gmail.com",
+      "password": "1234"
+    }
+  
+  ],
+  
+    "card1s": [
+      {"id":1,  "title": "Harry Potter & the half blood prince​", "Author": "J.K Rowling","Category":"Novel" },
+      {"id":2,  "title": "Harry Potter & the prisoniors of Azkaban​", "Author": "J.K Rowling","Category":"Novel" },
+      { "id":3, "title": "Harry Potter & the deathly hallows part 1​", "Author": "J.K Rowling","Category":"Novel" },
+      { "id":4, "title": "Interstellar", "Author": "R.K Pillai","Category":"Management" },
+      { "id":5, "title": "Corporate Chanakya​", "Author": "R.K.L.K","Category":"Technical" },
+      { "id":6, "title": "Learn Angular in 24 Hrs​", "Author": "J.K Rowling","Category":"Novel" }
+
+
+    ],}
