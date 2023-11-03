@@ -1,0 +1,27 @@
+import React from "react";
+
+function FunctionalComponent() {
+return <h1>Hi</h1>
+}
+
+export default FunctionalComponent;
+//A functional component is javascript function which takes input as properties and 
+//gets output as html(jsx)
+
+
+
+//   const FunctionalComponent = () => <h1>Hi</h1>
+// export default FunctionalComponent
+
+import React, {Component} from "react";
+
+class ClassCompo extends Component{
+    render(){
+        return <h1>Hi</h1>
+    }
+}
+
+export default ClassCompo;
+
+//a class component is a ES6 class which takes input as properties and output as Html
+//ES6 contains state which it is private to that componets as give output as html
