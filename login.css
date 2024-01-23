@@ -1,0 +1,80 @@
+/* * {
+    background-color: #222a35;
+} */
+.cover{
+    background-color: #222a35;
+    height: 100%;
+    min-height: 100vh;
+    position: fixed;
+    width: 100vw;
+} 
+
+h1{
+    color: white;
+    margin-left: 490px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -10%;
+}
+
+h3{
+    color: white;
+    margin-left: 520px;
+}
+
+.inp {
+    border: none;
+    /* background-color: #192841; */
+    opacity: 0.5;
+    width: 50%;
+    text-align: left;
+    padding: 2em;
+    font-size: 0.75em;
+    margin-left: 280px;
+    border-bottom: 1px solid grey;
+    color: white;
+}
+
+.register-btn {
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #222a35;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 45%;
+}
+
+.logos{
+    margin-left: 22px;
+    margin-top: 28px;
+    background-color: white;
+}
+/* .totallogo{
+    position: relative;
+   top:100px;
+    
+} */
+
+.circle{
+    background-color: white;
+    height: 150px;
+    width: 130px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.signup_pg{
+    position: relative;
+    left :550px;
+    color: white;
+}
+
+
+
+
+
